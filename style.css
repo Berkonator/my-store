@@ -1,0 +1,14 @@
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    padding: 1rem;
+  }
+  
+  .product-card {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    background: #fff;
+    border-radius: 6px;
+    text-align: center;
+  }
