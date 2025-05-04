@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(255, 255, 255);
+}
+
+main {
+    margin: 60px;
+}
+
+.exemp {
+    color: green;
+    font-size: 36px;
+    text-align: center;
+}
